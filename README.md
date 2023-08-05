@@ -1,5 +1,5 @@
 # HumanDataScience
-Il progetto seguente pone l’attenzione sulla ricerca di un eventuale relazione tra il consumo di Alcol e la felicit`a in un Paese.
+Il progetto seguente pone l’attenzione sulla ricerca di un eventuale relazione tra il consumo di Alcol e la felicità in un Paese.
 
 Gli effetti dannosi del consumo di alcol sull’uomo sono stati indagati in maniera approfondita nel corso degli anni. Contrariamente, in letteratura sono presenti poche ricerche sul legame tra felicità e alcol, e perciò pochi studi empirici a sostengo di questa tesi. Se è vero che un consumo eccessivo e prolungato nel tempo non porta nessun beneficio oggettivo alla salute dell’uomo, non sono però stati presi in considerazione gli effetti soggettivi (positivi o negativi) che un consumo ragionevole può generare. 
 
